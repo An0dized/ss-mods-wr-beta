@@ -1,0 +1,2 @@
+// Embeds Background.jpg as binary resource ID 1 (type RCDATA)
+1 RCDATA "..\\Background.jpg"
